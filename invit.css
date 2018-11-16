@@ -11,7 +11,7 @@ body {
 	background-color: white;
 	color: black;
 	font-family: 'Caveat', cursive;
-	background-image: url(https://raw.githubusercontent.com/valerielinares/18AnsZoeInvit/master/zoe_roses.jpg);
+	background-image: url(https://raw.githubusercontent.com/valerielinares/18AnsZoeInvit/0d0cb9892f06d285d7a3f08b5cf95d9be5dccb36/images/zoe_roses.jpg);
 	background-position-y: 10px;
 	background-size: 40%;
 	background-repeat: no-repeat;
@@ -69,7 +69,7 @@ body {
 	padding-right: 170px;
 	padding-bottom: 30px;
 	line-height: 90%;
-	background-image: url(https://raw.githubusercontent.com/valerielinares/18AnsZoeInvit/master/st_denis.png);
+	background-image: url(https://raw.githubusercontent.com/valerielinares/18AnsZoeInvit/0d0cb9892f06d285d7a3f08b5cf95d9be5dccb36/images/st_denis.png);
 	background-position: right;
 	background-position-y: center;
 	background-size: 30%;
