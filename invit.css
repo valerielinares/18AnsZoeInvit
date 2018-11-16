@@ -1,0 +1,132 @@
+body {
+	background-color: #CEECF5;
+	font-family: 'Great Vibes', cursive;
+	font-size: 1.7em;
+}
+
+.maincontainer {
+	width: 550px;
+	padding: 5px;
+	margin: 50px auto;
+	background-color: white;
+	color: black;
+	font-family: 'Caveat', cursive;
+	background-image: url(zoe_roses.jpg);
+	background-position-y: 10px;
+	background-size: 40%;
+	background-repeat: no-repeat;
+}
+
+.containerInvitation{
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 150px;
+	padding-bottom: 2px;
+	font-size: 1.5em;
+	font-family: 'Gochi Hand', cursive;
+	color:#01A9DB;
+}
+
+.container18Ans {
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 160px;
+	padding-bottom: 0px;	
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1em;
+	color:black;
+}
+
+.containerDate {
+	text-align: center;
+	padding: 0px;
+	padding-left: 150px;
+	font-family: 'Architects Daughter', cursive;
+	color: black;
+	font-size: 0.9em;
+}
+
+.containerLieu {
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 150px;
+	font-family: 'Caveat', cursive;
+	font-weight: bold;
+	color:#01A9DB;
+}
+
+.coord {
+	padding: 0px;
+	margin : 0px;
+	font-family: 'Caveat', cursive;
+	font-size: 0.7em;
+	color:#01A9DB;
+	font-weight: normal;
+}
+.containerBlabla {
+	padding-top: 35px;
+	padding-left: 5px;
+	padding-right: 170px;
+	padding-bottom: 30px;
+	line-height: 90%;
+	background-image: url(st_denis.png);
+	background-position: right;
+	background-position-y: center;
+	background-size: 30%;
+	background-repeat: no-repeat;
+	opacity: 0.8;
+	font-size: 0.7em;
+	color: black;
+}
+
+.heberg {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.datesAConf {
+		color: #FF00FF;
+}
+
+.merci {
+	line-height: 90%;
+	text-align: center;
+	font-family: 'Architects Daughter', cursive;
+	color:#01A9DB;
+	font-size: 0.65em;
+	padding-bottom: 0px;
+	padding-top:0px;
+	padding-left:10px;
+	padding-right:10px;
+	}
+
+.info {
+	padding-top: 25px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	font-size: 0.6em;
+	padding-bottom: 45px;
+	line-height: 80%;
+	font-style: italic;
+}	
+
+.liens {
+	padding-top: 0px;
+	line-height: 80%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family: 'Dosis', sans-serif;
+	font-style: normal;
+	font-size: 0.9em;
+}	
+
+/* 
+    font-family: 'Allerta Stencil', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Yeon Sung', cursive; MOCHE
+    font-family: 'Jua', sans-serif;
+    font-family: 'Gochi Hand', cursive;
+		font-family: 'Dosis', sans-serif;
+		font-family: 'Architects Daughter', cursive;
+*/
